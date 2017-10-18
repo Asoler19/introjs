@@ -1,0 +1,51 @@
+body{
+    margin: 10% 4% 4% 4%;
+}
+
+.userContainer{
+    display: flex;
+    height: 25em;
+    align-items: center;
+    justify-content: center;
+}
+
+.invoiceContainer{
+    margin-top: 4em;
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+}
+
+.userProfile{
+    border: 1px solid black;
+    display: flex;
+    width: 60%;
+    height: 100%;
+}
+
+.user{
+    height: auto;
+}
+
+
+#picContainer{
+    width: 40%;
+
+}
+
+#infoContainer{
+    margin: 5% 2% 2% 2%;
+    width: 60%;
+    font-family: Nobile;
+    font-size: 16PX;
+}
+
+p{
+    font-size: 22px;
+}
+img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
